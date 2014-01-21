@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "CorpBanca Depositos a Plazo",
   "short_name": "CorpBanca Depositos a Plazo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Muestra el saldo total de tu depositos en corpbanca.cl",
 
   "icons": {
