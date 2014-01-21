@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "CorpBanca Depositos a Plazo",
+  "short_name": "CorpBanca Depositos a Plazo",
+  "version": "1.0.0",
+  "description": "Muestra el total de tu depositos en corpbanca.cl",
+
+  "icons": {
+    "48" : "corpbanca-48.png",
+    "128" : "corpbanca-128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.corpbanca.cl/Ibank/Depositos2/listadoDepositos.aspx"],
+      "js" : ["contentscript.js"]
+    }
+  ]
+}
