@@ -3,7 +3,7 @@
   "name": "CorpBanca Depositos a Plazo",
   "short_name": "CorpBanca Depositos a Plazo",
   "version": "1.0.0",
-  "description": "Muestra el total de tu depositos en corpbanca.cl",
+  "description": "Muestra el saldo total de tu depositos en corpbanca.cl",
 
   "icons": {
     "48" : "corpbanca-48.png",
